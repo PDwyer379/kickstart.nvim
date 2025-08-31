@@ -350,7 +350,8 @@ require('lazy').setup({
       },
     },
   },
-
+  -- Testing Plugin add ----------------------------------------------------------------------------My change
+  'ThePrimeagen/vim-be-good',
   -- NOTE: Plugins can specify dependencies.
   --
   -- The dependencies are proper plugin specifications as well - anything
